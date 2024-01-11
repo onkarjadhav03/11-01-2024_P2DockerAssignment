@@ -1,0 +1,14 @@
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\bin\Debug\net6.0\MovieAsgn5.exe
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\bin\Debug\net6.0\MovieAsgn5.deps.json
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\bin\Debug\net6.0\MovieAsgn5.runtimeconfig.json
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\bin\Debug\net6.0\MovieAsgn5.dll
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\bin\Debug\net6.0\MovieAsgn5.pdb
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\obj\Debug\net6.0\MovieAsgn5.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\obj\Debug\net6.0\MovieAsgn5.AssemblyInfoInputs.cache
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\obj\Debug\net6.0\MovieAsgn5.AssemblyInfo.cs
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\obj\Debug\net6.0\MovieAsgn5.csproj.CoreCompileInputs.cache
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\obj\Debug\net6.0\MovieAsgn5.dll
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\obj\Debug\net6.0\refint\MovieAsgn5.dll
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\obj\Debug\net6.0\MovieAsgn5.pdb
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\obj\Debug\net6.0\MovieAsgn5.genruntimeconfig.cache
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\obj\Debug\net6.0\ref\MovieAsgn5.dll

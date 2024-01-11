@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ZpM0ReLRSDNZjunMAwuCQlKWs3RkOf6fe8rjtou/87t9UkJAaI8cJ1ibEKuB0ZCDiCqRizwXYBydzFTtapupQ==",
+  "success": true,
+  "projectFilePath": "D:\\mphasis\\Phase3\\Assignments\\Day5\\MovieAsgn5\\MovieAsgn5\\MovieAsgn5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

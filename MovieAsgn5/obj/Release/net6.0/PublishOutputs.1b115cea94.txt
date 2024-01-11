@@ -1,0 +1,5 @@
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\bin\Release\net6.0\publish\MovieAsgn5.exe
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\bin\Release\net6.0\publish\MovieAsgn5.dll
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\bin\Release\net6.0\publish\MovieAsgn5.deps.json
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\bin\Release\net6.0\publish\MovieAsgn5.runtimeconfig.json
+D:\mphasis\Phase3\Assignments\Day5\MovieAsgn5\MovieAsgn5\bin\Release\net6.0\publish\MovieAsgn5.pdb
